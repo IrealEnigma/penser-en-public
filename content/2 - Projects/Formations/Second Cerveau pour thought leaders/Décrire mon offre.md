@@ -1,0 +1,51 @@
+---
+created: 2024-03-31T00:56
+updated: 2024-03-31T00:57
+tags:
+  - project
+---
+# Second Cerveau pour thought leader
+
+**Nom** : The Ultimate Idea Factory for Thought leaders
+
+- Arrêtez d’oublier ce que vous lisez, c’est important de lire mais autant vous dire que c’est inutile si vous ne prenez pas de note.
+- Vous faites des recherches pour créer du contenu, tout le temps de recherche, la recherche que vous avez passé vous l’avez définitivement perdu, alors qu’un Second Cerveau vous permet de capitaliser sur ce que vous avez trouver
+- Quand vous devez créer du contenu, généralement vous commencez sur une idée que vous avez déjà vu, vous l’avee déjà en tête, pourtant vous devez retourner chercher ce que vous aviez vu, refaire des recherches, à nouveau perdre du temps
+- Si vous n’écrivez pas comment pouvez vous avoir une pensée claire.
+- Vous n’arrêtez pas de procrastiner, vous vous lamentez de ne pas être assez productif, c’est parce que vous mesurez pas ce que vous faîtes. Vous ne découpez pas votre projet correctement.
+- Vous besoin d’une organisation pour votre pensée et votre création
+- Le système que vous allez bâtir peut certes prendre du temps au début, c’est une habitude à prendre mais c’est comme n’importe quel business, une fois que vous avez construit vos systèmes, vos process et votre produit. Le système tourne tout seul. Sur le long terme, toutes vos notes vont se cumuler à la manière des intérêts composée.
+
+![[Idea Visual  Compound Knowledge]]
+
+- Certes vous avez besoin d’apprendre et prendre des notes régulièrement mais vous n’avez aucunement besoin de ranger et d’organiser vos notes. C’est un système chaotique, les idées émergent justement du chaos. Donc le rangement n’est pas nécessaire contrairement à d’autre forme d’organisation.
+- Vous avez accès à ce Second Cerveau à partir de n’importe lequel de vos appareil, nous synchroniserons tout votre écosystème et ce gratuitement
+- Votre Second Cerveau est stocké en local sur votre ordinateur ou dans le Cloud. Faites également des sauvegardes régulières pour des questions de sécurité.
+- Nous apprendrons comment prendre des notes efficaces exploitables et facilement mémorisable. L’objectif c’est que vous pouvez transmettre ces idées après
+- Vous devez pouvoir mobiliser vos sources pour appuyer vos idées et donner du crédit, qu’il s’agisse de publications scientifiques, de diagrammes, de citations, tout cela ne peut pas être juste être contenu dans votre tête. 
+- Je vous transmettrais des outils pour générer de nouvelles idées, trouver les bonnes sources, identifier les idées à forte valeur, articuler les grandes idées.
+- Nous aborderons les différents types de pensée et de prise de note (textuelle, vocale, visuelle (mindmaps…))
+
+# Objections
+
+- C’est très complexe pour moi.
+- R : Effectivement c’est un système complexe mais je vous prend par la main et nous avançons étape par étape pour que puissiez avoir un système similaire au mien. De plus, une fois que vous l’avez mis en place, il vous suffit d’installer une routine pour y revenir régulièrement
+- Cela prend trop de temps
+- R : Si vous avez peur que la formation prenne trop de temps. N’ayez crainte j’ai découpé la formation de manière à ce qu’elle aille à l’essentielle. De plus, elle est orientée vers l’action donc vous aller tout en faire en même temps que moi. Dans le pire des cas, vous pouvez toujours passer en x2, je fais pareil la plupart du temps. 
+- R : Si vous avez peur que le système prenne du temps à construire, effectivement le système peut prendre un peu de temps à construire et être compris au début mais je vous accompagne du début à la fin. Dite vous que vous bâtissez un asset qui va grossir et rester pour le reste de votre vie. C’est un système de long terme.
+- Je n’aurai pas la motivation
+- R : Ne vous inquiétez pas, le contenu est assez court et nous passons directement à la construction du système, je vous accompagne. Je vous assure que vu le temps que cela va vous faire gagner le jeu en vaut la chandelle. Le niveau de motivation qui vous est nécessaire pour créer actuellement va drastiquement chuter une fois que vous aurez mis en place votre second cerveau.
+- Je peux chercher ces informations sur Internet
+- R : Effectivement, mais l’information est confuse et parcellaire, tout le monde à un système différent. Vous verrez des choses plus avancées et vous ne saurez même pas comment réaliser ce qui vous est montré. Tandis que de mon côté, je vous accompagne de bout en bout, je me base sur mon utilisation personnelle et je propose des alternatives. Vous allez perdre énormément de temps à chercher et différencier les informations pour au final avoir un système bancal et incomplet mais si telle est votre désir, je comprend et je respecte.
+- Je garde tout dans ma tête
+- R : Je suis aussi par là, jusqu’à ce que je me rend compte que des 10 livres que j’ai lu il y a quelques mois ou les super articles que j’avais lu la semaine dernière, il ne me restait plus rien ! C’est très frustrant. Vous perdez énormément de temps pour rechercher à nouveau les sources, relire, essayez de remémoriser. Surtout que cela c’est uniquement pour le contenu que vous recherchez je ne parle même pas des 90% de contenu que vous avez consommé mais que vous pourriez avoir besoin bien plus tard ou des 100 d’idées que vous avez par jour. Et ça ce qu’est que pour l’oubli. Vu la quantité d’infromations que vous êtes bombardez quotidiennement, il est irresponsable de ne pas avoir un système de gestion de connaissance efficace.
+- C’est trop cher
+- R : Personnellement, si j’avais découvert ce système plus tôt, j’y aurai mis beaucoup d’argent. C’est un investissement, vous allez construire un asset sur lequel vous capitaliserez toute votre vie de thought leader. Il est impossible de vendre ses idées sans avoir un système pour les gérer. Votre vie risque d’être bien plus dur mais j’admire votre courage de prendre le chemin le plus difficile.
+- J’ai peur d’être bloqué
+- R : Vous aurez accès à une communauté de gens qui comme vous suivent la formation, je vous répondrais sur la communauté et si je ne suis pas disponible les autres membres seront bienveillant à votre égard.
+- Je suis sceptique, je ne pense pas en voir besoin
+- Selon moi, aux XXIe siècle tout être humain devrait avoir un Second Cerveau, votre mémoire est limitée. Votre cerveau est fait pour avoir des idées et non les stockez. 
+- Je comprend le besoin de me former mais je ne pense pas avoir besoin de système.
+- Pourquoi prendre cette formation
+
+- Il y a une amélioration significative chez ceux qui l’utilise. Je ne vous promet pas monts et merveilles. Je vous promets un système fiable qui changera radicalement la manière dont vous apprenez, pensez et travaillez.

@@ -7,8 +7,10 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      Newsletter: "https://thinklearn.substack.com/",
+      "Blog": "https://romainledda.framer.website/blog",
+      "Youtube":"https://www.youtube.com/channel/UChB-sKD7-wx9IRRZ2BxtATQ",
+      "LinkedIn":"https://www.linkedin.com/in/romain-ledda-thought-leader-for-thought-leader/"
     },
   }),
 }
@@ -43,7 +45,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    // Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
 }

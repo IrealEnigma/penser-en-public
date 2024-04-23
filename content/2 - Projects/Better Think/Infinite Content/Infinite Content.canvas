@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"2954716e6bb7f7a2","type":"text","text":"Templatiser","x":-620,"y":30,"width":280,"height":50},
+		{"id":"a4c801678232d120","type":"text","text":"Contenu de flux VS. Contenu de stock","x":-620,"y":-120,"width":380,"height":60},
+		{"id":"03ecf2e4e56c61b1","type":"text","text":"Newsletter\n","x":280,"y":-180,"width":250,"height":60},
+		{"id":"c4f62a8d28a59e5a","type":"text","text":"Blog","x":661,"y":-180,"width":250,"height":60},
+		{"id":"c3993e214dc11ae4","type":"text","text":"Choix du sujet","x":280,"y":-320,"width":250,"height":60},
+		{"id":"3c81a5bcd9a06129","type":"text","text":"Youtube","x":-60,"y":-180,"width":250,"height":60},
+		{"id":"71e01ee4532da857","type":"text","text":"Collecter","x":335,"y":-560,"width":140,"height":60},
+		{"id":"1b9f2d3acafb0617","type":"text","text":"Content Architecture - Collect","x":30,"y":-440,"width":330,"height":60},
+		{"id":"96b21197a4a256b1","type":"text","text":"LinkedIn","x":30,"y":110,"width":250,"height":60},
+		{"id":"867455e53e9c2b12","type":"text","text":"Infinite Content","x":-275,"y":240,"width":250,"height":60},
+		{"id":"b036907f056ad922","type":"text","text":"Infinite Content","x":-275,"y":240,"width":250,"height":60},
+		{"id":"0783ca589d6fbbc7","type":"text","text":"Infinite Content","x":-275,"y":240,"width":250,"height":60,"color":"6"},
+		{"id":"a9699c9830cce2d6","type":"text","text":"Content Architecture - Publication","x":-150,"y":-60,"width":345,"height":60},
+		{"id":"d78830208ec15128","type":"text","text":"Content Architecture - Publication","x":614,"y":-60,"width":345,"height":60},
+		{"id":"477c9f73bba68839","type":"text","text":"Twitter","x":530,"y":110,"width":250,"height":60},
+		{"id":"e623a02d5cc2df98","type":"text","text":"Repurposing \n3 - 6 mois","x":120,"y":300,"width":180,"height":80},
+		{"id":"4db8ab08a4fded39","type":"text","text":"Idée + Angle = Contenu","x":489,"y":280,"width":271,"height":60},
+		{"id":"a2ea31d720e45111","type":"text","text":"1 - Collecter","x":-540,"y":-860,"width":250,"height":60},
+		{"id":"b0894efdaa528dba","type":"text","text":"2 - Idéation","x":-540,"y":-780,"width":250,"height":60},
+		{"id":"37d651f51879d8cf","type":"text","text":"3 - Templatiser","x":-540,"y":-700,"width":250,"height":60},
+		{"id":"9c6903514fd7ad52","type":"text","text":"4 - Mesurer","x":-540,"y":-620,"width":250,"height":60},
+		{"id":"5c9f02f0ae0d9537","type":"text","text":"5 - Itérer","x":-540,"y":-540,"width":250,"height":60},
+		{"id":"5763fc0d489d0729","type":"text","text":"6 - Repurpose","x":-540,"y":-460,"width":250,"height":60},
+		{"id":"0362235929fd1c5a","type":"text","text":"Blockbuster modèle","x":-180,"y":-620,"width":250,"height":60},
+		{"id":"5523b076c3f36a58","type":"text","text":"Matrice de contenu","x":-380,"y":-290,"width":250,"height":60},
+		{"id":"f70e786e08d68600","type":"text","text":"Stack d’outils","x":-305,"y":80,"width":250,"height":60},
+		{"id":"e596790d89a00e39","type":"text","text":"Infinite Content a pour objectif de permettre de systématiser sa création de contenu et s’établir comme la référence dans son secteur","x":-330,"y":340,"width":360,"height":160,"color":"6"},
+		{"id":"424c934506e08648","x":-745,"y":210,"width":315,"height":130,"type":"text","text":"Présentation Processus Créatif\n- Mindmaps"}
+	],
+	"edges":[
+		{"id":"109ea4a11e30ec97","fromNode":"03ecf2e4e56c61b1","fromSide":"right","toNode":"c4f62a8d28a59e5a","toSide":"left"},
+		{"id":"ee0172181aeb0d64","fromNode":"c3993e214dc11ae4","fromSide":"bottom","toNode":"03ecf2e4e56c61b1","toSide":"top"},
+		{"id":"d03ac517c4574316","fromNode":"03ecf2e4e56c61b1","fromSide":"left","toNode":"3c81a5bcd9a06129","toSide":"right"},
+		{"id":"03014784906cd17a","fromNode":"03ecf2e4e56c61b1","fromSide":"bottom","toNode":"477c9f73bba68839","toSide":"top"},
+		{"id":"2caf29f706f955ba","fromNode":"03ecf2e4e56c61b1","fromSide":"bottom","toNode":"96b21197a4a256b1","toSide":"top"},
+		{"id":"f89ca0f0c3219c5f","fromNode":"71e01ee4532da857","fromSide":"bottom","toNode":"c3993e214dc11ae4","toSide":"top"}
+	]
+}

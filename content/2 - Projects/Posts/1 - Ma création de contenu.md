@@ -1,0 +1,21 @@
+---
+created: 2024-03-31T00:30
+updated: 2024-04-05T14:25
+tags:
+  - project
+---
+# Ma création de contenu
+
+Il y a plusieurs formats et types de posts pour ma création de contenu : 
+
+- Expérience, Build in Public, Storytelling, partage de ma vision, mes opinions
+- Analyse du succès, des idées, d’un modèle d’un thought leader ou d’une personnalité
+- Partage d’une idée sur une thématique liée au thought leadership
+- Partage d’idée d’un thought leader ou d’une personnalité
+- Partage d’idées et de réflexions autour d’une lecture
+- Réaction à une idée ou une réflexion
+- Explication du thought leadership (éducation)
+- Sondages
+- Création et vente d’offre
+
+[[CREATION]]

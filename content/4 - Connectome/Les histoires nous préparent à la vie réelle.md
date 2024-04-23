@@ -1,0 +1,3 @@
+Lorsqu’on regarde, lit ou écoute une histoire, on vit en parallèle l’histoire. Notre cerveau est une machine de prédiction. A chaque situation dans laquelle le héros se trouve, on prédit et on imagine comment on réagirait ans cette situation. Les histoires nous aide indirectement à nous préparer aux divers évènements de la vie.
+
+Bien que les histoires peuvent être créées de toute pièce, elles apparaissent tout de même réelles à notre cerveau. De la perception ne notre cerveau, on ne suit pas simplement une histoire en temps que spectateur mais on la vit en même temps que le héros.

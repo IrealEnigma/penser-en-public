@@ -1,0 +1,22 @@
+# How to Tell if Someone Is Truly Smart or Just Average
+
+![rw-book-cover](https://miro.medium.com/max/895/1*pyJ7T5Il6J4BhM-hUf6w5Q.jpeg)
+
+## Metadata
+- Author: [[Michael Simmons]]
+- Full Title: How to Tell if Someone Is Truly Smart or Just Average
+- Category: #articles
+- Summary: Author’s Note: This article was written over 60 hours with love and care using the blockbuster mental model. If you like my writing style…
+- URL: https://medium.com/accelerated-intelligence/how-to-tell-if-someone-is-truly-smart-or-just-average-a2f0bcac5db2
+
+## Highlights
+- “I look at the future from the standpoint of probabilities. It’s like a branching stream of probabilities, and there are actions that we can take that affect those probabilities or that accelerate one thing or slow down another thing. I may introduce something new to the probability stream.” ([View Highlight](https://read.readwise.io/read/01h7v6qkpqetttezyrxxr9hpnc))
+- According to [Model Theory](http://mentalmodels.princeton.edu/about/what-are-mental-models/), we all always use mental models in our thinking. “Mental models are psychological representations of real, hypothetical, or imaginary situations,” according to the [formal definition](http://mentalmodels.princeton.edu/about/what-are-mental-models/). Less formally, a mental model is a simplified, scaled-down version of some aspect of the world: a schematic of a particular piece of reality. A model can be represented as a blueprint, a symbol, an idea, a formula, and in many other ways. We all unconsciously create models of how the world works, how the economy works, how politics works, how other people work, how we work, how our brains work, how our day is supposed to go, and so on ([View Highlight](https://read.readwise.io/read/01h7v6pqzamkg99by7mw93s6c5))
+- The more effective the model, the more effectively we are able to act, predict, innovate, explain, explore, and communicate. The worse the model, the more we fall prey to costly mistakes. **The difference between great thinkers and ordinary thinkers is that, for ordinary thinkers, the process of using models is unconscious and reactive. For great thinkers, it is conscious and proactive.** ([View Highlight](https://read.readwise.io/read/01h7v6aq72xjhkt1wxrdsc94cv))
+- To apply the 80/20 Rule, at the beginning of the day we can ask ourselves, “Of all the things on my to-do list, what are the 20 percent that will create 80 percent of the results?” When we’re searching for what to read next, we can ask ourselves, “Of all the millions of books I could buy, which ones could really change my life?” When considering who to spend time with, we can ask ourselves, “Which handful of people in my life give me the most happiness, the most meaning, and the greatest connection?” In short, consistently using the 80/20 Rule can help us get leverage by focusing on the few things that really matter and ignoring the majority that don’t. ([View Highlight](https://read.readwise.io/read/01h7v6nj0f8shp9s6tftqt8rhy))
+- Evolution is so slow that a child born today is — biologically — indistinguishable from a child born 30,000 years ago. Yet, here I am typing on a MacBook, while my ancestors spent most of their time collecting berries, throwing spears, and chipping rocks. So what’s the difference between someone born 30,000 years ago and me?
+  Tools.
+  Between then and now, there has been an unprecedented explosion and evolution of tools that have collectively created modern society. ([View Highlight](https://read.readwise.io/read/01h7v6tqk3jsw558q2fvs8qr9d))
+- **But there’s a major blindspot people have when it comes to understanding tools.** Many people fail to appreciate non-physical tools — tools that they cannot touch, hear, or see. But mental tools are just as powerful and complex as physical tools. ([View Highlight](https://read.readwise.io/read/01h7v6t9a4n3tzenwbkemx7j86))
+- As society evolves, it’s becoming more and more complex. There are more people, more tools, and more knowledge, all globally connected in complicated ways. **Therefore, people who are able to model how this more complex reality works will be far more successful at navigating it.** ([View Highlight](https://read.readwise.io/read/01h7v6x7ewk9wzad5b0jabe07k))
+- “Education is not the learning of facts, but training the mind to think.” -Albert Einstein ([View Highlight](https://read.readwise.io/read/01h7v74emfvvc1hknt5ddv773v))

@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"5d17e6147b560fbb","x":-560,"y":-200,"width":280,"height":60,"type":"text","text":"1 - Réapprendre à penser"},
+		{"id":"214bd0d69398f213","x":360,"y":-200,"width":280,"height":60,"type":"text","text":"3 - Les modèles mentaux"},
+		{"id":"abbfd8564431afa9","x":780,"y":-20,"width":250,"height":60,"type":"text","text":"1 - Penser"},
+		{"id":"72dc1dbd91f790e7","x":-95,"y":-740,"width":355,"height":60,"type":"text","text":"2 - Prendre de meilleures décisions"},
+		{"id":"22b86e602b5c7b8b","x":-95,"y":-650,"width":250,"height":60,"type":"text","text":"Clarifier le problème"},
+		{"id":"78822b15f829d25e","type":"text","text":"Identifier la chose la plus importante","x":-95,"y":-570,"width":375,"height":50},
+		{"id":"9a4089a92d07e5b4","x":-95,"y":-500,"width":250,"height":60,"color":"5","type":"text","text":"Le principe de Pareto"},
+		{"id":"773cb628c94c9a4b","x":1060,"y":-90,"width":300,"height":60,"color":"5","type":"text","text":"La pensée fondamentale"},
+		{"id":"10814b8910d9e70b","x":1060,"y":0,"width":300,"height":80,"color":"5","type":"text","text":"La pensée de deuxième niveau"},
+		{"id":"ef864fda2645b569","x":1400,"y":-90,"width":250,"height":60,"color":"5","type":"text","text":"La pensée probabiliste"},
+		{"id":"f3934d9edd9c5cb9","x":1400,"y":0,"width":250,"height":60,"color":"5","type":"text","text":"La pensée inversée"},
+		{"id":"db6820d17d17645b","x":360,"y":-120,"width":320,"height":60,"type":"text","text":"Introduction modèles mentaux"},
+		{"id":"d3c48b6a2cfb7214","x":-95,"y":-420,"width":295,"height":60,"type":"text","text":"Trouver le problème racine"},
+		{"id":"7295832f70d00204","x":235,"y":-420,"width":250,"height":60,"color":"5","type":"text","text":"Les 5 Pourquoi"},
+		{"id":"0f9ba71297cb58ed","x":1680,"y":-90,"width":250,"height":60,"color":"5","type":"text","text":"La double pensée"},
+		{"id":"3c6ddbec6724726a","x":-560,"y":340,"width":300,"height":60,"type":"text","text":"Collecter les modèles mentaux"},
+		{"id":"372880f994f4dda2","x":-600,"y":240,"width":400,"height":60,"type":"text","text":"4 - Créer ses propres modèles mentaux"},
+		{"id":"a82c43385fdb7dea","x":-95,"y":-340,"width":275,"height":60,"type":"text","text":"Empêcher les problèmes"},
+		{"id":"abb5ff82b59ab355","x":-95,"y":-260,"width":250,"height":60,"type":"text","text":"Anticiper les problèmes"},
+		{"id":"f96a8f183d1ed4a3","x":360,"y":110,"width":250,"height":60,"type":"text","text":"3 - Biais cognitifs"},
+		{"id":"d5c188f72765c098","x":360,"y":10,"width":250,"height":60,"type":"text","text":"2 - Business"},
+		{"id":"d6cc9ea994a904af","x":360,"y":210,"width":250,"height":60,"type":"text","text":"4 - Apprendre"},
+		{"id":"f00cb5ae815bbe70","x":360,"y":310,"width":400,"height":60,"type":"text","text":"5 - Les modèles mentaux fondamentaux"},
+		{"id":"6e31b5d128ce3417","x":360,"y":410,"width":250,"height":60,"type":"text","text":"6 - Humains"},
+		{"id":"3d9daea87791d471","x":-82,"y":-120,"width":250,"height":60,"color":"6","type":"text","text":"Infinite Thinking"},
+		{"id":"ebec1efb312a416a","x":-147,"y":-20,"width":380,"height":200,"color":"6","type":"text","text":"Infinite Thinking a pour objectif de permettre aux gens de mieux penser, d’appréhender, comprendre et appliquer les principaux modèles mentaux, créer les leurs et prendre de meilleures décisions"}
+	],
+	"edges":[]
+}

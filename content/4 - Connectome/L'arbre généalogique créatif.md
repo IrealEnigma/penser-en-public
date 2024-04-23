@@ -1,0 +1,14 @@
+---
+created: 2024-02-22T22:00
+updated: 2024-03-30T18:00
+tags:
+  - concept
+---
+Dans son livre [“](https://substack.com/redirect/82dd799d-5b88-4ce1-8771-76c58dbf0be7?j=eyJ1IjoiMXhycnYxIn0.joRqPI9owhoxhUWLVMhwtUUpsUh-lLXvbQQOEy4JvF4)_[Steal Like an Artist”](https://substack.com/redirect/82dd799d-5b88-4ce1-8771-76c58dbf0be7?j=eyJ1IjoiMXhycnYxIn0.joRqPI9owhoxhUWLVMhwtUUpsUh-lLXvbQQOEy4JvF4),_ Austin Kleon parle de retracer son arbre généalogique créatif. Comme il l’explique, nous sommes la somme de nos influences. Aussi, le meilleur moyen d’explorer son univers créatif est de commencer par étudier la vie des 2-3 personnes qui nous inspirent, et de trouver par quels 2-3 personnes ils ont eux-mêmes été inspirés. Plus il y a de monde dans l’arbre, moins tu te sentiras seul, et plus il sera facile d’écrire car la direction sera moins nébuleuse.
+
+# Lien
+
+[[CREATION]]
+[[Le processus créatif]]
+[[La voie du Créateur]]
+[[Créer un arbre de créateurs inspirants]]

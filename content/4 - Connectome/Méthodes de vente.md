@@ -1,0 +1,4 @@
+- Recontextualisation
+	- Faire comprendre à son prospect que son problème n’est pas ce qu’il s’imagine
+- Mécanisation
+	- Consiste à illustrer par quel méthode ce problème peut être résolu

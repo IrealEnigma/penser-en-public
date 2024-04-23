@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"b0cbdf72c8bfb2a1","x":-760,"y":-40,"width":250,"height":60,"type":"text","text":"1. Capturer"},
+		{"id":"b8cdf01089470f3b","x":-760,"y":-160,"width":250,"height":60,"type":"text","text":"Livre"},
+		{"id":"02cf0065a340b248","x":-760,"y":-260,"width":250,"height":60,"type":"text","text":"Podcast"},
+		{"id":"15b955a5f8096db2","x":-760,"y":-350,"width":250,"height":60,"type":"text","text":"Livre numérique"},
+		{"id":"096476c9f37ee85b","x":-760,"y":-440,"width":250,"height":60,"type":"text","text":"Articles"},
+		{"id":"897ddf120f2a233f","x":-760,"y":-530,"width":250,"height":60,"type":"text","text":"Thread"},
+		{"id":"6a7499bf98e181b5","x":-760,"y":-620,"width":250,"height":60,"type":"text","text":"Newsletter"},
+		{"id":"b083ee3650c00587","x":320,"y":-560,"width":250,"height":60,"type":"text","text":"Note"},
+		{"id":"1fc537751c426ef7","x":320,"y":-440,"width":250,"height":60,"type":"text","text":"Note"},
+		{"id":"e717b54f6e8acf33","x":320,"y":-320,"width":250,"height":60,"type":"text","text":"Note"},
+		{"id":"4361238f7944c741","x":320,"y":-220,"width":250,"height":60,"type":"text","text":"Note"},
+		{"id":"4212c82cae621b7d","x":320,"y":-40,"width":250,"height":60,"type":"text","text":"3. Distiller"},
+		{"id":"b0e2180020aefdba","x":940,"y":-560,"width":250,"height":60,"type":"text","text":"Livre"},
+		{"id":"b0454755a9729e28","x":940,"y":-440,"width":250,"height":60,"type":"text","text":"Conférences"},
+		{"id":"3bec395d199ca57c","x":940,"y":-320,"width":250,"height":60,"type":"text","text":"Articles"},
+		{"id":"7309b4bb94140aa1","x":940,"y":-220,"width":250,"height":60,"type":"text","text":"Post"},
+		{"id":"629e8d4c2924ca29","x":940,"y":-40,"width":250,"height":60,"type":"text","text":"4. Exprimer"},
+		{"id":"7e0a29b127374bd3","x":-260,"y":-40,"width":250,"height":60,"type":"text","text":"2. Organiser"},
+		{"id":"d6d448d2f51090fe","x":-760,"y":-720,"width":280,"height":60,"type":"text","text":"Publications scientifiques"},
+		{"id":"c910befd4636af62","x":-760,"y":-820,"width":250,"height":60,"type":"text","text":"Réunions"},
+		{"id":"276d9fbd61ee3399","x":-760,"y":-920,"width":250,"height":60,"type":"text","text":"Notes physiques"}
+	],
+	"edges":[
+		{"id":"446374d7173e5117","fromNode":"b083ee3650c00587","fromSide":"right","toNode":"b0454755a9729e28","toSide":"left"},
+		{"id":"77fb92141bde9533","fromNode":"e717b54f6e8acf33","fromSide":"right","toNode":"b0454755a9729e28","toSide":"left"},
+		{"id":"003c3fbbaf5de3ec","fromNode":"4361238f7944c741","fromSide":"right","toNode":"b0454755a9729e28","toSide":"left"},
+		{"id":"173033cfe7bbc0dd","fromNode":"1fc537751c426ef7","fromSide":"right","toNode":"7309b4bb94140aa1","toSide":"left"},
+		{"id":"ba2c72f8b61b2a26","fromNode":"b083ee3650c00587","fromSide":"right","toNode":"7309b4bb94140aa1","toSide":"left"},
+		{"id":"362d8d2dd5c121bf","fromNode":"e717b54f6e8acf33","fromSide":"right","toNode":"b0e2180020aefdba","toSide":"left"},
+		{"id":"312c8cee189c59d3","fromNode":"1fc537751c426ef7","fromSide":"right","toNode":"b0e2180020aefdba","toSide":"left"},
+		{"id":"8493823ba7ada4bf","fromNode":"b083ee3650c00587","fromSide":"right","toNode":"3bec395d199ca57c","toSide":"left"},
+		{"id":"8cc49568a8e9ee57","fromNode":"1fc537751c426ef7","fromSide":"right","toNode":"b0454755a9729e28","toSide":"left"}
+	]
+}

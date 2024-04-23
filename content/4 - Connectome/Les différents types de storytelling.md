@@ -1,0 +1,6 @@
+- The oral storytelling
+	- Pour les talks, les pitchs, podcasts et les rencontres
+- The visual storytelling
+	- Pour les vidéos Youtube et Shorts
+- The written storytelling
+	- Pour les copy et newsletters

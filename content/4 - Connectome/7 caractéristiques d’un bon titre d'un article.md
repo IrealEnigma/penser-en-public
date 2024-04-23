@@ -1,0 +1,7 @@
+- Recency : A quel point l’article est récent
+- Relevancy : S’adresser à la bonne cible
+- Celebrity : Si cela parle de célébrité ou d’une autorité
+- Proximity : Si cela se passe plus ou moins loin de la cible
+- Conflict : Lorsque 2 visions du monde s’affrontent
+- Unusual : Si c’est étrange, cela sort de la normale
+- Ongoing : Si cela se passe en ce moment

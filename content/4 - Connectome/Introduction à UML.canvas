@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"67f056467887fb3b","type":"file","file":"Files/Pasted image 20231210180439.png","x":-1224,"y":-274,"width":886,"height":613},
+		{"id":"7d0e460c8315cc5d","type":"file","file":"Files/Pasted image 20231210180556.png","x":-320,"y":-274,"width":893,"height":613},
+		{"id":"7674c103d321c618","type":"file","file":"Files/Pasted image 20231210180742.png","x":600,"y":-274,"width":899,"height":613},
+		{"id":"c878178b570ced12","type":"file","file":"Files/Pasted image 20231210181145.png","x":-1224,"y":400,"width":886,"height":511},
+		{"id":"6e0407b920e55287","type":"file","file":"Files/Pasted image 20231210181340.png","x":-320,"y":400,"width":920,"height":637},
+		{"id":"b83bb991cf95f239","type":"file","file":"Files/Pasted image 20231210181552.png","x":650,"y":400,"width":849,"height":559},
+		{"id":"dcfbf5b13a0d6fac","type":"file","file":"Files/Pasted image 20231210181655.png","x":-1224,"y":1080,"width":886,"height":586},
+		{"id":"9fa8279648a56ee4","type":"file","file":"Files/Pasted image 20231210181752.png","x":-320,"y":1105,"width":919,"height":615},
+		{"id":"74f11c971497d84f","type":"file","file":"Files/Pasted image 20231210182046.png","x":675,"y":1105,"width":990,"height":375},
+		{"id":"ce2a349d846dace2","type":"text","text":"Acteur primaire : A gauche\nActeur secondaire : A droite","x":675,"y":1560,"width":305,"height":100}
+	],
+	"edges":[]
+}

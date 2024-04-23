@@ -1,0 +1,4 @@
+- Les histoires sont la plus ancienne forme de partage de connaissance. Notre cerveau y est donc parfaitement adapté
+- L’Homme n’est pas un être rationnel. Il se base et agit selon ses émotions. Les histoires permettent de connecter émotionnellement avec un humain. Ce qui a pour effet :
+	- De créer directement un lien émotionnel avec une personne
+	- D’ancrer la connaissance ou la morale transmise dans la tête de la personne car les hommes retiennent si il a ressenti une forte émotion lorsque la connaissance a été transmise. Voir [[Comment enseigner efficacement]] 

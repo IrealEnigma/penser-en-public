@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"da33cad5844f5065","type":"text","text":"Recherche","x":520,"y":-420,"width":250,"height":60},
+		{"id":"f17e4756c542022b","type":"text","text":"Title","x":180,"y":-420,"width":250,"height":60},
+		{"id":"370aee13dd5c0a92","type":"text","text":"Topic","x":-200,"y":-420,"width":250,"height":60},
+		{"id":"3fa12600e7732424","type":"text","text":"Capture","x":520,"y":-330,"width":250,"height":60},
+		{"id":"bff0764fbe890f21","type":"text","text":"Brainstorming","x":840,"y":-420,"width":250,"height":60},
+		{"id":"4ecac46294257144","type":"text","text":"Write down a many questions as you think your packaging might inspire \n\nList them by importance","x":140,"y":-660,"width":330,"height":180},
+		{"id":"acda1f539040812e","type":"text","text":"Why","x":1640,"y":-420,"width":250,"height":60},
+		{"id":"2fd578cdf28c38e7","type":"text","text":"How","x":1940,"y":-420,"width":250,"height":60},
+		{"id":"445118e7b37d1c47","type":"text","text":"Montrer ce que va permettre les conseils que tu as donné","x":2215,"y":-340,"width":300,"height":120},
+		{"id":"e16e82aaf7adfbc9","type":"text","text":"Climax","x":2240,"y":-420,"width":250,"height":60},
+		{"id":"6511f235a03b3857","type":"text","text":"Character Changed","x":2640,"y":-420,"width":250,"height":60},
+		{"id":"8a8f0b9f523061e1","type":"text","text":"Share a personal story or explain how it has the advice or tips you share change you as a person","x":2615,"y":-340,"width":300,"height":140},
+		{"id":"685eb122ed4eb2b5","type":"text","text":"Thumbnail","x":3040,"y":-420,"width":250,"height":60},
+		{"id":"bdf844c0566bcb69","type":"text","text":"Hook","x":1265,"y":-420,"width":250,"height":60},
+		{"id":"96296eaee779c942","type":"text","text":"What ?","x":1265,"y":-340,"width":250,"height":60},
+		{"id":"622401819603a356","type":"text","text":"Start with a story","x":1265,"y":-100,"width":250,"height":60},
+		{"id":"e59112c2bae3f671","type":"text","text":"Introduce with a question that your audience wants to know","x":1265,"y":-260,"width":250,"height":140},
+		{"id":"09c10e8a18964011","type":"text","text":"Big\nEasy\nNew\nSafe","x":1090,"y":-260,"width":125,"height":140}
+	],
+	"edges":[
+		{"id":"5ff243f85eaae544","fromNode":"bdf844c0566bcb69","fromSide":"right","toNode":"acda1f539040812e","toSide":"left"},
+		{"id":"a31d9dbe97c0cc5f","fromNode":"acda1f539040812e","fromSide":"right","toNode":"2fd578cdf28c38e7","toSide":"left"},
+		{"id":"5be2cc820251484e","fromNode":"2fd578cdf28c38e7","fromSide":"right","toNode":"e16e82aaf7adfbc9","toSide":"left"},
+		{"id":"8886694f08c4ee11","fromNode":"e16e82aaf7adfbc9","fromSide":"right","toNode":"6511f235a03b3857","toSide":"left"},
+		{"id":"9af5b1b0990ce112","fromNode":"f17e4756c542022b","fromSide":"right","toNode":"da33cad5844f5065","toSide":"left"},
+		{"id":"25a1dc9568296a88","fromNode":"370aee13dd5c0a92","fromSide":"right","toNode":"f17e4756c542022b","toSide":"left"},
+		{"id":"acb9db4d53625a56","fromNode":"da33cad5844f5065","fromSide":"right","toNode":"bff0764fbe890f21","toSide":"left"},
+		{"id":"0984eda06e2bc5ad","fromNode":"bff0764fbe890f21","fromSide":"right","toNode":"bdf844c0566bcb69","toSide":"left"},
+		{"id":"014ead8e77c965ae","fromNode":"6511f235a03b3857","fromSide":"right","toNode":"685eb122ed4eb2b5","toSide":"left"}
+	]
+}

@@ -1,0 +1,6 @@
+- Explore promoting your course on Product Hunt
+- Promote your course through paid advertising
+- Promote through social network (LinkedIn, Youtube…)
+- Brainstorm your next course idea using the feedback you got
+- Use more advanced features in SchoolMaker and upsell new offers with [consultations](https://schoolmaker.com/features/consultations), [lives](https://schoolmaker.com/features/live) or [coaching](https://schoolmaker.com/features/coaching)
+- Launch a cohort based course
